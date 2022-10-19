@@ -22,11 +22,14 @@ i {
 button {
   border: none;
 }
+.navigation {
+  padding: 0.5em;
+}
 .nav-list {
   padding: 0px;
   list-style-type: none;
   width: 20vw;
-  padding: 0.5em;
+  /* padding: 0.5em; */
 }
 .nav-list-item {
   background-color: #808080;
